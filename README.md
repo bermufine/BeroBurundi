@@ -10,6 +10,7 @@
 "http://185.59.221.131:8081/live/rtnb/playlist.m3u8"
 ],
 "subtitleBur": "By Channel",
+"numberBur": "269",
 "thumbBur": "https://od.lk/s/M18yODM2MDM3MzJf/burundi.jpg",
 "titleBur": "RT BURUNDI"
 }
